@@ -1,9 +1,9 @@
 :root {
-    --color-bg: #FBF1C7;
-    --color-fg: #3C3836;
-    --color-link: #458588;
-    --color-link-visited: #076678;
-    --color-link-hover: #AF3A03;
+    --color-bg: #2B3339;
+    --color-fg: #D3C6AA;
+    --color-link: #A7C080;
+    --color-link-visited: #7FBBB3;
+    --color-link-hover: #E67E80;
 }
 
 html, body {
@@ -102,11 +102,9 @@ a:hover {
   0% {
     opacity: 1;
   }
-
   50% {
     opacity: 0;
   }
-
   100% {
     opacity: 1;
   }
